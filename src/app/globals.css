@@ -16,3 +16,23 @@
   background-color: #1284f7 !important;
   color: #000 !important;
 }
+
+.rbc-toolbar {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.rbc-btn-group button{
+  border-color:pink !important;
+}
+.rbc-btn-group button:hover {
+  background-color: pink !important;
+}
+
+.rbc-btn-group .rbc-active{
+  background-color: aliceblue !important;
+}
+
+.rbc-btn-group .rbc-active:hover{
+  background-color: pink !important;
+}
